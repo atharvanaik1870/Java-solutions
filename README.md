@@ -1,4 +1,1 @@
-# Java-solutions
-Solutions of java problem on hackerrank
-this repository contains solutions of java problems.
-
+SOLUTION FOR DIFFERENT PROBLEMS PRESENT ON ONLINE PRACTICE PLATFORMS
